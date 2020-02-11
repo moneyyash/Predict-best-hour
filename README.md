@@ -1,2 +1,3 @@
 # Predict-best-hour
-In this project, we'll work with a data set of submissions to popular technology site Hacker News. We find the posts starts with "ask hn" for user ask hacker news community and "ask show" for hacker community reply. After which we predict the best hour to create post to get high ratings and comments.
+In this project, we'll work with a data set of submissions to popular technology site Hacker News. We find the posts starts with "ask hn" for user ask hacker news community and "ask show" for hacker community reply. After which we predict the best hour to create post to get more comments on an average.
+You can find the data set here https://www.kaggle.com/hacker-news/hacker-news-posts, but it has been reduced from almost 300,000 rows to approximately 20,000 rows by removing all submissions that did not receive any comments, and then randomly sampling from the remaining submissions.
